@@ -5,7 +5,7 @@ Below is a list of open source games and game-related projects that can be found
 The repository [leeriley/games](https://github.com/leereilly/games) is the basis for this repository and has been slightly repurposed for this project.
 
 #### Contributing
-
+  
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork [leeriley/games](https://github.com/leereilly/games) and submit a pull request.
 
 **Would you like to help maintain and improve the original repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
