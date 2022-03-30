@@ -8,7 +8,7 @@ The repository [leeriley/games](https://github.com/leereilly/games) is the basis
   
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork [leeriley/games](https://github.com/leereilly/games) and submit a pull request.
 
-**Would you like to help maintain and improve the original repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
+**Would you like to help maintain and improve the original repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483). 
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
